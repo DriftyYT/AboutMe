@@ -1,7 +1,9 @@
 # Hi there, I'm Drifty 👋
 <br />
-### My stats
-![Drifty's GitHub stats](https://github-readme-stats.vercel.app/api?username=driftyyt)
+
+## My stats
+![Drifty's GitHub stats](https://github-readme-stats.vercel.app/api?username=driftydev)
+
 <br />
 
 <br />
