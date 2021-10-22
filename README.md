@@ -2,7 +2,7 @@
 <br />
 
 ### My stats
-![Drifty's GitHub stats](https://github-readme-stats.vercel.app/api?username=driftydev)
+![Drifty's GitHub stats](https://github-readme-stats.vercel.app/api?username=driftydev&theme=dark)
 
 <br />
 
