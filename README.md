@@ -4,7 +4,7 @@
 ![Views](https://komarev.com/ghpvc/?username=DriftyDev&style=flat-square)
 
 ### My stats
-![Drifty's GitHub stats](https://github-readme-stats.vercel.app/api?username=driftydev&theme=dark)
+![Drifty's GitHub stats](https://github-readme-stats.vercel.app/api?username=DriftyDev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Drifty's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DriftyDev&layout=compact)
 
 <br />
