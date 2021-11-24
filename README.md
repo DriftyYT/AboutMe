@@ -5,6 +5,7 @@
 
 ### My stats
 ![Drifty's GitHub stats](https://github-readme-stats.vercel.app/api?username=driftydev&theme=dark)
+![Drifty's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DriftyDev&layout=compact)
 
 <br />
 
