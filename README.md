@@ -1,6 +1,8 @@
 ### Hi there, I am Drifty 👋
 <br />
 
+![Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
 ### My stats
 ![Drifty's GitHub stats](https://github-readme-stats.vercel.app/api?username=driftydev&theme=dark)
 
