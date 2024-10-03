@@ -10,8 +10,8 @@
 ![Drifty's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DriftyDev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 -->
 - 🔭 Check out my [projects](https://drifty.es)!
-- 📖 I’m currently learning 
-- ⚡ 
+- 📖 I’m currently mastering javascript & other languages.
+- ⚡ Currently working on Atlas Rust
 - 🌍 Spain
 
 <br />
@@ -26,6 +26,4 @@
 
 ### Contact
 - [Website](https://drifty.es)
-- [Discord]() drifty.dev
-
-<br />
+- [Discord](https:/discord.com) (drifty.dev)
