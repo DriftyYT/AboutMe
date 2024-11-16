@@ -11,7 +11,7 @@
 -->
 - 🔭 Check out my [projects](https://drifty.es)!
 - 📖 I’m currently mastering javascript & other languages.
-- ⚡ Currently working on Atlas Rust
+- ⚡ Currently studying
 - 🌍 Spain
 
 <br />
